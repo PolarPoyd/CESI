@@ -1,0 +1,2 @@
+LES PROPRIÉTÉS TYPÉES
+Les propriétés typées en POO sont des propriétés de classe auxquelles un type spécifique de données est explicitement assigné. Cette fonctionnalité, disponible dans certains langages de programmation comme PHP (depuis PHP 7.4), permet de déclarer des types pour les propriétés d'une classe, garantissant ainsi que ces propriétés ne peuvent contenir que des valeurs de ce type
